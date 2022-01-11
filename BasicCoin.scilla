@@ -1,8 +1,11 @@
 scilla_version 0
 
 (***************************************************)
-(*               Associated library                *)
+(* Disclaimer: This contract is eithers based off  *)
+(*   or inspired by Scilla's official website.     *)
+(*    https://scilla.readthedocs.io/en/latest/     *)
 (***************************************************)
+
 import IntUtils
 library FungibleToken
 
